@@ -8,7 +8,7 @@ We propose a methodology for the calculation of nanohardness by atomistic simula
 </details>
 
 *Note*: 
-- **MLIP** is open source and can be retieved at [MLIP-3 - Alexander Shapeev](https://gitlab.com/ashapeev/mlip-3)
+- **MLIP** is open source and can be retrieved at [MLIP-3 - Alexander Shapeev](https://gitlab.com/ashapeev/mlip-3)
 - Published as [Nanohardness from First Principles with Active Learning on Atomic Environments](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.1c00783)
 
  
